@@ -1,0 +1,10 @@
+2025-04-17 | AAPL close: $176.44 | Apple shares edge 0.82% up after revealing record MacBook Pro sales.
+2025-04-18 | AAPL close: $178.77 | Analysts say the upcoming iPhone 16 production ramp could drive Apple's next growth phase—shares up 1.32%.
+2025-04-19 | AAPL close: $176.75 | Apple shares edge 1.13% down after revealing a surprise services‑segment price cut.
+2025-04-20 | AAPL close: $178.99 | Analysts say record MacBook Pro sales could drive Apple's next growth phase—shares up 1.27%.
+2025-04-21 | AAPL close: $182.52 | Analysts say record MacBook Pro sales could drive Apple's next growth phase—shares up 1.97%.
+2025-04-22 | AAPL close: $182.52 | Apple shares edge 0.0% up after revealing an expanded AI‑on‑device initiative.
+2025-04-23 | AAPL close: $181.66 | Apple shares edge 0.47% down after revealing a surprise services‑segment price cut.
+2025-04-24 | AAPL close: $178.3 | Analysts say record MacBook Pro sales could drive Apple's next growth phase—shares down 1.85%.
+2025-04-25 | AAPL close: $175.0 | Analysts say the upcoming iPhone 16 production ramp could drive Apple's next growth phase—shares down 1.85%.
+2025-04-26 | AAPL close: $178.12 | Analysts say a surprise services‑segment price cut could drive Apple's next growth phase—shares up 1.78%.
